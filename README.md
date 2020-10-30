@@ -1,6 +1,6 @@
-// Dump installed packages
+# Dump installed packages
 brew bundle dump
 
-// Install
+#  Install
 brew bundle
 
